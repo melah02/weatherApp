@@ -1,0 +1,19 @@
+{
+  "name": "weatherappproject",
+  "version": "1.0.0",
+  "description": "takes in city name and returns weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "hbs": "^4.2.0",
+    "request": "^2.88.2",
+    "sass": "^1.63.6"
+  }
+}
